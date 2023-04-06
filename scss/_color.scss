@@ -1,0 +1,74 @@
+
+    /* Colors */
+    $White: #fff;
+    $DarkWhiteBcg: #fafafa;
+    $gradient: linear-gradient(
+      to left bottom,
+      #1a0770,
+      #3c269c,
+      #482fa8,
+      #46397c,
+      #605296,
+      #6149a5,
+      #453070,
+      #573985,
+      #714499,
+      #7d3d9c,
+      #833096,
+      #9a4ba0
+    );
+  
+    $secondary: linear-gradient(
+      to right bottom,
+      #682aad,
+      #542bc7,
+      #5c64d3,
+      #a744c0,
+      #9429af
+    );
+  
+    $textColor: #4c4486;
+    $textLightColor: #9e9d9d;
+  
+    /* Colors Hover */
+    $mainHover: linear-gradient(
+      to left bottom,
+      #9e8fdc,
+      #9c8cdd,
+      #9989dd,
+      #9785de,
+      #9482de,
+      #977fdb,
+      #9a7cd8,
+      #9d79d5,
+      #a576ce,
+      #ab74c7,
+      #b172c0,
+      #b570b9
+    );
+    $secondaryHover: linear-gradient(
+      to right bottom,
+      rgba(123, 81, 240, 0.824),
+      rgba(111, 11, 158, 0.796),
+      rgba(162, 0, 255, 0.773),
+      rgba(105, 0, 242, 0.664),
+      rgba(127, 23, 213, 0.678)
+    );
+  
+    $textColorHover: #26224b;
+  
+    /* Box shadow style */
+    $shadow: rgba(0, 0, 0, 0.062) 0px 3px 5px;
+  
+    /* Box shadow hovers */
+    $shadowHover: rgba(143, 143, 143, 0.212) 0px 5px 15px;
+  
+    /* Animation states */
+    $shadowAnimationStart: rgba(121, 71, 238, 0.685) 0px 0px,
+      rgba(142, 89, 226, 0.267) 0px 0px, rgba(138, 93, 241, 0.2) 0px 0px,
+      rgba(179, 46, 240, 0.1) 0px 0px, rgba(150, 101, 240, 0.05) 0px 0px;
+    $shadowAnimationEnd: rgba(179, 46, 240, 0.4) 5px 5px,
+      rgba(49, 46, 240, 0.3) 10px 10px, rgba(120, 46, 240, 0.2) 15px 15px,
+      rgba(169, 46, 240, 0.1) 20px 20px, rgba(146, 46, 240, 0.05) 25px 25px;
+  
+  
